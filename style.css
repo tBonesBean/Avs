@@ -1,0 +1,15 @@
+nav  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+body  {
+    background-image: url(https://media.d3.nhle.com/image/private/t_w_2560_max/f_auto/v1691466780/prd/assets/avalanche/backgrounds/CA_2324_L_F_Backgrounds_Blue_Primary_fkm7gs.jpg);
+}
+thead  {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+tbody  {
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
